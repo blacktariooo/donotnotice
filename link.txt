@@ -1,1 +1,1 @@
-http://4967-2001-861-5d50-d8a0-1cc4-ab14-5274-ab0d.ngrok.io
+http://19e6-2001-861-5d50-d8a0-1cc4-ab14-5274-ab0d.ngrok.io/api/upload_image
